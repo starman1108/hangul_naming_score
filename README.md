@@ -18,7 +18,7 @@ NamingUtil.swift import 후 아래의 코드로 이용가능합니다.
 NamingUtil.matchingScore(name1: name1, name2: name2)
 </code></pre>
 
-##예시
+#예시
 ---------
 <pre><code>
 // 한글 체크
@@ -45,7 +45,9 @@ if isValid {
 }
 </code></pre>
 
-결과:
+#결과:
 --------
+<pre><code>
 홍길동님이 이길순님을 생각하는 마음: 98점
 이길순님이 홍길동님을 생각하는 마음: 26점
+</code></pre>
